@@ -31,8 +31,9 @@ function handleChange(infosDoEvento) {
 
 
 useEffect(() => {
-  console.log("hello hau are yu");
-  const URL_TOP = 'https://caruso-val-myflix.herokuapp.com/categorias';
+  const URL_TOP =  window.location.hostname.includes('localhost')
+  ? 'http://localhost:8080/categorias'
+  : 'https://caruso-val-myflix.herokuapp.com/categorias';
   fetch(URL_TOP)
     .then(async (respostaDoServidor) => {
       const resposta = await respostaDoServidor.json();
