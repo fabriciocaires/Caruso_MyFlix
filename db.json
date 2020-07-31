@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+        "id": 1,
+        "nome": "Gemaplys",
+        "descricao": "Programador gososo",
+        "cor": "cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Amdré Young",
+            "descricao": "Canal Argentino Gostoso",
+            "cor": "cbd1ff"
+            }
+    ]
+}
