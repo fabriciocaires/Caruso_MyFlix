@@ -4,6 +4,10 @@ import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import Button from '../../../components/Button';
 
+function useForm() {
+  
+}
+
 function CadastroCategoria() {
   const valoresIniciais = {
     nome: '',
@@ -93,8 +97,8 @@ useEffect(() => {
           <ul>
             {categorias.map((categoria) => {
               return (
-                <li key={`${categoria.nome}`}>                  
-                    {categoria.nome} 
+                <li key={`${categoria.titulo}`}>                  
+                    {categoria.titulo} 
                 </li>
               )
             })}
