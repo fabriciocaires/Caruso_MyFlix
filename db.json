@@ -10,19 +10,19 @@
         }
         },
         {
-            "id": 2,
-            "titulo": "Amdré Young",
-            "cor": "cbd1ff",
-            "link_extra": {
+        "id": 2,
+        "titulo": "Amdré Young",
+        "cor": "cbd1ff",
+        "link_extra": {
                 "text": "Canal Argentino Gostoso",
                 "url": "https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw"
         }
         },
         {
-            "id": 3,
-            "titulo": "Guselect",
-            "cor": "cbd1ff",
-            "link_extra": {
+        "id": 3,
+        "titulo": "Guselect",
+        "cor": "cbd1ff",
+        "link_extra": {
                 "text": "GameDev Eboy",
                 "url": "https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ"
         }
@@ -31,37 +31,37 @@
     "videos": [
         {
             "id": 1,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "FIZ UM JOGO DO MINEIRINHO EM 2D",
             "url": "https://youtu.be/1QtgOymTU_E?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             },
             {
             "id": 2,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "fiz um jogo do chorão no undertale em 6 horas",
             "url": "https://youtu.be/Brnrgzj7SrU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             },
             {
             "id": 3,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "fiz um jogo inteiro em um mês e sobrevivi",
             "url": "https://youtu.be/opBd-Oa6wMk?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             },
             {
             "id": 4,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "fiz um jogo caótico da ana maria braga",
             "url": "https://youtu.be/qGRYryK95gU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             },
             {
             "id": 5,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "refiz meu jogo favorito em 5 horas com a grande família",
             "url": "https://youtu.be/wJql7LwUmsU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             },
             {
             "id": 6,
-            "categoriaid": 1,
+            "categoriaId": 1,
             "titulo": "tentei arrumar um jogo que fiz quando criança",
             "url": "https://youtu.be/kGYyzW4j31g?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
             }
