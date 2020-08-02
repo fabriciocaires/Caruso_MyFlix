@@ -7,8 +7,8 @@ import useForm from '../../../hooks/useForm';
 
 function CadastroCategoria() {
   const valoresIniciais = {
-    nome: '',
-    descricao: '',
+    titulo: '',
+    text: '',
     cor: ''
   };
 
@@ -45,17 +45,17 @@ useEffect(() => {
           }}>
 
             <FormField
-              label = "Nome da Categoria"
-              name="nome"
-              value={values.nome}
+              label="Nome da Categoria"
+              name="titulo"
+              value={values.titulo}
               onChange={handleChange}
             />
 
             <FormField
-              label = "Descrição"
+              label="Descrição"
               type="textarea"
-              name="descricao"
-              value={values.descricao}
+              name="text"
+              value={values.text}
               onChange={handleChange}
             />
 
@@ -81,10 +81,9 @@ useEffect(() => {
           <ul>
             {categorias.map((categoria) => {
               return (
-                <li key={`${categoria.id}`}>                  
-                    {categoria.nome} 
-                 <li>{categoria.cor} </li>
-
+                <li key={`${categoria.id}`}>          
+                    {categoria.titulo}
+                <li>{categoria.cor} </li>
                 </li>
               )
             })}
