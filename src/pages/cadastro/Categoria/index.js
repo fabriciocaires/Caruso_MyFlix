@@ -83,7 +83,7 @@ useEffect(() => {
               return (
                 <li key={`${categoria.id}`}>          
                     {categoria.titulo}
-                <li>{categoria.cor} </li>
+                    {categoria.cor}
                 </li>
               )
             })}

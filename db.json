@@ -64,6 +64,72 @@
             "categoriaId": 1,
             "titulo": "tentei arrumar um jogo que fiz quando criança",
             "url": "https://youtu.be/kGYyzW4j31g?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+            },
+            {
+            "id": 7,
+            "categoriaId": 2,
+            "titulo": "MEUS JOGOS NUNCA LANÇADOS (E QUE NUNCA SERÃO)",
+            "url": "https://youtu.be/iCcnz2ZA4CI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+            },
+            {
+            "id": 8,
+            "categoriaId": 2,
+            "titulo": "MEUS JOGOS QUE TALVEZ SEJAM LANÇADOS",
+            "url": "https://youtu.be/DtENh3RdiLY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+            },
+            {
+            "id": 9,
+            "categoriaId": 2,
+            "titulo": "EXISTE JOGO INDIE BOM NO BRASIL?",
+            "url": "https://youtu.be/8kydo5-qGTI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+            },
+            {
+            "id": 10,
+            "categoriaId": 2,
+            "titulo": "CRIEI E PUBLIQUEI UM JOGO EM 10 DIAS",
+            "url": "https://youtu.be/TOkU7-x5MlE?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+            },
+            {
+            "id": 11,
+            "categoriaId": 2,
+            "titulo": "CRIEI UM JOGO NO PIOR PROGRAMA QUE EXISTE",
+            "url": "https://youtu.be/9kqTVeOj3GY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+            },
+            {
+            "id": 12,
+            "categoriaId": 3,
+            "titulo": "FIZ UM JOGO EM 10 DIAS - COMEBACK",
+            "url": "https://www.youtube.com/watch?v=PZUaRZJJNhg&t=90s"
+            },
+            {
+            "id": 13,
+            "categoriaId": 3,
+            "titulo": "EU VOU LANÇAR MEU PRIMEIRO JOGO - TRAPSTAR ADVENTURES",
+            "url": "https://www.youtube.com/watch?v=mJyL2Vo-0Bs"
+            },
+            {
+            "id": 14,
+            "categoriaId": 3,
+            "titulo": "O JOGO QUE MUDOU A MINHA VIDA - CAVE STORY",
+            "url": "https://www.youtube.com/watch?v=TI4qUBoTixU"
+            },
+            {
+            "id": 15,
+            "categoriaId": 3,
+            "titulo": "EU VOU TERMINAR O JOGO DO RAFFA MOREIRA!",
+            "url": "https://www.youtube.com/watch?v=U_4DGg5uraE"
+            },
+            {
+            "id": 16,
+            "categoriaId": 3,
+            "titulo": "OS JOGOS QUE EU FIZ QUANDO ERA CRIANÇA",
+            "url": "https://www.youtube.com/watch?v=xk9nEzheFl8"
+            },
+            {
+            "id": 17,
+            "categoriaId": 3,
+            "titulo": "EU FIZ O JOGO DO RAFFA MOREIRA",
+            "url": "https://www.youtube.com/watch?v=OVNTFCttrO0"
             }
         ]
     }
