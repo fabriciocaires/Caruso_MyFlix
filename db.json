@@ -1,135 +1,165 @@
 {
-    "categorias": [
-        {
-        "id": 1,
-        "titulo": "Gemaplys",
-        "cor": "cbd1ff",
-        "link_extra": {
-            "text": "Programador gososo",
-            "url": "https://www.youtube.com/channel/UC1pAUT1bL7fV9VBp3A6F8FQ"
-        }
-        },
-        {
-        "id": 2,
-        "titulo": "Amdré Young",
-        "cor": "cbd1ff",
-        "link_extra": {
-                "text": "Canal Argentino Gostoso",
-                "url": "https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw"
-        }
-        },
-        {
-        "id": 3,
-        "titulo": "Guselect",
-        "cor": "cbd1ff",
-        "link_extra": {
-                "text": "GameDev Eboy",
-                "url": "https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ"
-        }
-        }
-    ],
-    "videos": [
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "FIZ UM JOGO DO MINEIRINHO EM 2D",
-            "url": "https://youtu.be/1QtgOymTU_E?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 2,
-            "categoriaId": 1,
-            "titulo": "fiz um jogo do chorão no undertale em 6 horas",
-            "url": "https://youtu.be/Brnrgzj7SrU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 3,
-            "categoriaId": 1,
-            "titulo": "fiz um jogo inteiro em um mês e sobrevivi",
-            "url": "https://youtu.be/opBd-Oa6wMk?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 4,
-            "categoriaId": 1,
-            "titulo": "fiz um jogo caótico da ana maria braga",
-            "url": "https://youtu.be/qGRYryK95gU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 5,
-            "categoriaId": 1,
-            "titulo": "refiz meu jogo favorito em 5 horas com a grande família",
-            "url": "https://youtu.be/wJql7LwUmsU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "tentei arrumar um jogo que fiz quando criança",
-            "url": "https://youtu.be/kGYyzW4j31g?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
-            },
-            {
-            "id": 7,
-            "categoriaId": 2,
-            "titulo": "MEUS JOGOS NUNCA LANÇADOS (E QUE NUNCA SERÃO)",
-            "url": "https://youtu.be/iCcnz2ZA4CI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
-            },
-            {
-            "id": 8,
-            "categoriaId": 2,
-            "titulo": "MEUS JOGOS QUE TALVEZ SEJAM LANÇADOS",
-            "url": "https://youtu.be/DtENh3RdiLY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
-            },
-            {
-            "id": 9,
-            "categoriaId": 2,
-            "titulo": "EXISTE JOGO INDIE BOM NO BRASIL?",
-            "url": "https://youtu.be/8kydo5-qGTI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
-            },
-            {
-            "id": 10,
-            "categoriaId": 2,
-            "titulo": "CRIEI E PUBLIQUEI UM JOGO EM 10 DIAS",
-            "url": "https://youtu.be/TOkU7-x5MlE?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
-            },
-            {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "CRIEI UM JOGO NO PIOR PROGRAMA QUE EXISTE",
-            "url": "https://youtu.be/9kqTVeOj3GY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
-            },
-            {
-            "id": 12,
-            "categoriaId": 3,
-            "titulo": "FIZ UM JOGO EM 10 DIAS - COMEBACK",
-            "url": "https://www.youtube.com/watch?v=PZUaRZJJNhg&t=90s"
-            },
-            {
-            "id": 13,
-            "categoriaId": 3,
-            "titulo": "EU VOU LANÇAR MEU PRIMEIRO JOGO - TRAPSTAR ADVENTURES",
-            "url": "https://www.youtube.com/watch?v=mJyL2Vo-0Bs"
-            },
-            {
-            "id": 14,
-            "categoriaId": 3,
-            "titulo": "O JOGO QUE MUDOU A MINHA VIDA - CAVE STORY",
-            "url": "https://www.youtube.com/watch?v=TI4qUBoTixU"
-            },
-            {
-            "id": 15,
-            "categoriaId": 3,
-            "titulo": "EU VOU TERMINAR O JOGO DO RAFFA MOREIRA!",
-            "url": "https://www.youtube.com/watch?v=U_4DGg5uraE"
-            },
-            {
-            "id": 16,
-            "categoriaId": 3,
-            "titulo": "OS JOGOS QUE EU FIZ QUANDO ERA CRIANÇA",
-            "url": "https://www.youtube.com/watch?v=xk9nEzheFl8"
-            },
-            {
-            "id": 17,
-            "categoriaId": 3,
-            "titulo": "EU FIZ O JOGO DO RAFFA MOREIRA",
-            "url": "https://www.youtube.com/watch?v=OVNTFCttrO0"
-            }
-        ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Gemaplys",
+      "cor": "cbd1ff",
+      "link_extra": {
+        "text": "Programador gososo",
+        "url": "https://www.youtube.com/channel/UC1pAUT1bL7fV9VBp3A6F8FQ"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Amdré Young",
+      "cor": "cbd1ff",
+      "link_extra": {
+        "text": "Canal Argentino Gostoso",
+        "url": "https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Guselect",
+      "cor": "cbd1ff",
+      "link_extra": {
+        "text": "GameDev Eboy",
+        "url": "https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ"
+      }
     }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "FIZ UM JOGO DO MINEIRINHO EM 2D",
+      "url": "https://youtu.be/1QtgOymTU_E?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "fiz um jogo do chorão no undertale em 6 horas",
+      "url": "https://youtu.be/Brnrgzj7SrU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "fiz um jogo inteiro em um mês e sobrevivi",
+      "url": "https://youtu.be/opBd-Oa6wMk?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "fiz um jogo caótico da ana maria braga",
+      "url": "https://youtu.be/qGRYryK95gU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "refiz meu jogo favorito em 5 horas com a grande família",
+      "url": "https://youtu.be/wJql7LwUmsU?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "tentei arrumar um jogo que fiz quando criança",
+      "url": "https://youtu.be/kGYyzW4j31g?list=PLiOozRWhHK7GiN957jsxDZgGF8PpeOV3_"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "MEUS JOGOS NUNCA LANÇADOS (E QUE NUNCA SERÃO)",
+      "url": "https://youtu.be/iCcnz2ZA4CI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "MEUS JOGOS QUE TALVEZ SEJAM LANÇADOS",
+      "url": "https://youtu.be/DtENh3RdiLY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "EXISTE JOGO INDIE BOM NO BRASIL?",
+      "url": "https://youtu.be/8kydo5-qGTI?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "CRIEI E PUBLIQUEI UM JOGO EM 10 DIAS",
+      "url": "https://youtu.be/TOkU7-x5MlE?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "CRIEI UM JOGO NO PIOR PROGRAMA QUE EXISTE",
+      "url": "https://youtu.be/9kqTVeOj3GY?list=PLKnSr8e-M5dQdjXwgrM7qLmiYPDCvjwLc"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "FIZ UM JOGO EM 10 DIAS - COMEBACK",
+      "url": "https://www.youtube.com/watch?v=PZUaRZJJNhg&t=90s"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "EU VOU LANÇAR MEU PRIMEIRO JOGO - TRAPSTAR ADVENTURES",
+      "url": "https://www.youtube.com/watch?v=mJyL2Vo-0Bs"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "O JOGO QUE MUDOU A MINHA VIDA - CAVE STORY",
+      "url": "https://www.youtube.com/watch?v=TI4qUBoTixU"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "EU VOU TERMINAR O JOGO DO RAFFA MOREIRA!",
+      "url": "https://www.youtube.com/watch?v=U_4DGg5uraE"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "OS JOGOS QUE EU FIZ QUANDO ERA CRIANÇA",
+      "url": "https://www.youtube.com/watch?v=xk9nEzheFl8"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "EU FIZ O JOGO DO RAFFA MOREIRA",
+      "url": "https://www.youtube.com/watch?v=OVNTFCttrO0"
+    },
+    {
+      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "categoriaID": 1,
+      "id": 18
+    },
+    {
+      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "categoriaID": 1,
+      "id": 19
+    },
+    {
+      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "categoriaID": 1,
+      "id": 20
+    },
+    {
+      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "categoriaID": 1,
+      "id": 21
+    },
+    {
+      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
+      "categoriaID": 1,
+      "id": 22
+    }
+  ]
+}
