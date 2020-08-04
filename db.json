@@ -4,28 +4,22 @@
       "id": 1,
       "titulo": "Gemaplys",
       "cor": "4c1036",
-      "link_extra": {
         "text": "Programador gososo",
         "url": "https://www.youtube.com/channel/UC1pAUT1bL7fV9VBp3A6F8FQ"
-      }
     },
     {
       "id": 2,
       "titulo": "Amdré Young",
       "cor": "72195a",
-      "link_extra": {
-        "text": "Canal Argentino Gostoso",
-        "url": "https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw"
-      }
+      "text": "Canal Argentino Gostoso",
+      "url": "https://www.youtube.com/channel/UCv29ytb-v_Ph6QZOypGFyEw"
     },
     {
       "id": 3,
       "titulo": "Guselect",
       "cor": "71a9f7",
-      "link_extra": {
-        "text": "GameDev Eboy",
-        "url": "https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ"
-      }
+      "text": "GameDev Eboy",
+      "url": "https://www.youtube.com/channel/UCseB9OWWJSnlabGj2WPp0uQ"
     }
   ],
   "videos": [
@@ -136,42 +130,6 @@
       "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
       "categoriaID": 1,
       "id": 18
-    },
-    {
-      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaID": 1,
-      "id": 19
-    },
-    {
-      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaID": 1,
-      "id": 20
-    },
-    {
-      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaID": 1,
-      "id": 21
-    },
-    {
-      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaID": 1,
-      "id": 22
-    },
-    {
-      "titulo": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaID": 1,
-      "id": 23
-    },
-    {
-      "titulo": "Video Exemplo",
-      "url": "https://www.youtube.com/watch?v=pLaBoH7xgv8",
-      "categoriaId": 1,
-      "id": 24
     }
   ]
 }
